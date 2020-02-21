@@ -9,7 +9,7 @@
 3) Mixxx features - Contains the lattest Mixxx features - But... I´m sure that not all tasks arent done, so I´m always sharping the graphics, correcting issues, adding forgotten and/or new stuff, etc...
 4) Unique features - Contains unique and original features (I´ll try to add features not available anywhere else, but they must be functional too, of course) Like the analog VUs, the digital font, a grey only color scheme (A tribute to 1927´s Metropolis film), strobe lights, your own logos, etc, etc... Our imagination versus the code will be the limit...
 
-=================================================================================
+---------------------------------------------------------------------------------
 
 **How-Tos...**
 
